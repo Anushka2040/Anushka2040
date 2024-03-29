@@ -12,13 +12,9 @@
 
 #
 
->## Technology
+>## Technology and Frameworks
 >
-> ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg)
->
->## Frameworks
->
->![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg)
+> ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg)
 >
 >## OS
 >
