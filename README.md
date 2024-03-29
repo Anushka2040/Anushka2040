@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://github.com/Anushka2040/Anushka2040/assets/87491903/94f72f9f-ac97-4fb2-892d-2fcb00a8a72d)
+
 <!--
 **Anushka2040/Anushka2040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
