@@ -1,6 +1,6 @@
 ![image](https://www.icegif.com/wp-content/uploads/icegif-2425.gif) 
 
-👩🏽‍💻 I'm a Computer Science Engineering graduate with a 9.12 CGPA. Proficient in ***C/C++, Python, HTML, CSS, Node.js, and Express.js***. Led software development projects, optimizing system performance and user experience. Proven track record in backend and frontend development, with expertise in ***RESTful APIs, database systems, and cloud platforms***. 
+👩🏽‍💻 Tech-savvy Computer Science graduate with a stellar academic record and hands-on experience in software development. Proficient in ***C/C++, Python, HTML, CSS, Node.js, and Express.js***. Led impactful projects, including optimizing system boot-up and developing RESTful APIs. Skilled in problem-solving and collaboration, delivering high-quality solutions. Passionate about innovation and continuous learning in the tech industry. Proven track record in backend and frontend development, with expertise in ***RESTful APIs, database systems, and cloud platforms***. 
 ### You can checkout my [profile website](https://anushka2040.github.io/Profile/) to learn more about me. 
 ###
 
