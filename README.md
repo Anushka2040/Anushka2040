@@ -1,6 +1,9 @@
-### Hi there 👋
+![image](https://www.icegif.com/wp-content/uploads/icegif-2425.gif) 
 
-![image](https://www.icegif.com/wp-content/uploads/icegif-2425.gif)
+👩🏽‍💻 I'm a Computer Science Engineering graduate with a 9.12 CGPA. Proficient in C/C++, Python, HTML, CSS, Node.js, and Express.js. Led software development projects, optimizing system performance and user experience. Proven track record in backend and frontend development, with expertise in RESTful APIs, database systems, and cloud platforms. You can checkout my [profile website](https://anushka2040.github.io/Profile/) to learn more about me. 
+###
+
+[![Hits](https://hits.sh/github.com/Anushka2040.svg)](https://hits.sh/github.com/Anushka2040/)
 
 <!--
 **Anushka2040/Anushka2040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
