@@ -10,6 +10,19 @@
 - 🌱 I’m currently learning on Coursera and doing a Meta Back-End Developer Professional Certification course.
 - 🤔 I’m looking for help finding an opportunity that would challenge me and increase my knowledge.
 
+#
+
+>## Technology
+>
+> ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg)
+>
+>## Frameworks
+>
+>![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg)
+>
+>## OS
+>
+> ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg) ![image](https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg)
 
 <!--
 **Anushka2040/Anushka2040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
