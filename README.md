@@ -6,9 +6,9 @@
 
 [![Hits](https://hits.sh/github.com/Anushka2040.svg)](https://hits.sh/github.com/Anushka2040/)
 
-- 🔭 I'm currently working on a Django website which will curate a personalized cover letter using resume.
+- 🔭 I'm currently working on a Django web application that can be used to curate a personalized cover letter using a resume.
 - 🌱 I’m currently learning on Coursera and doing a Meta Back-End Developer Professional Certification course.
-- 🤔 I’m looking for help finding an opportunity that would challenge me and increase my knowledge.
+- 🤔 I’m looking for help finding an opportunity that will challenge me and increase my knowledge.
 
 #
 
